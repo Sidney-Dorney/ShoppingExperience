@@ -1,0 +1,53 @@
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+header img {width: 300px;
+            float: left;}
+nav {padding-top: 61px;}
+nav div#links {background-color: #037DBE;
+                padding: 5px 0px 5px 0px;}
+nav a {color: #fff;
+        text-decoration: none;
+        padding-left: 5%;}
+nav a:hover {color: #111;}
+main {width: 90%;
+    margin: 10px auto;}
+#mainContentContainer {margin-right: 22%;}
+#mainContentImage {width: 100%;}
+aside {float: right;
+        width: 20%;
+        border: dotted 1px #4d4d4d;
+        background-color: #eee;
+        padding-bottom: 15px;
+        margin-bottom: 10px;}
+aside a {text-decoration: none;
+        color: #000;}
+#sideBarHeading {text-align: center;
+                padding: 5px 0px;}
+#sideBarContainer {margin: 0px auto;
+                    background-color: #fff;
+                    padding: 2%;
+                    border-radius: 5px;
+                    width: 90%;}
+.featuredImage {max-width: 100%;}
+.bold {font-weight: bold;}
+footer {background-color: #eee;
+        padding: 10px 0px;
+        font-size: 80%;
+        height: 50px;
+        color: #4d4d4d;
+        clear: both;}
+div#socialMediaLinks {float: left;
+                    padding-left: 5%;}
+div#socialMediaLinks img {width: 40px;
+                        padding: 6px 0px 0px 6px;}
+div#socialMediaLinks a {text-decoration: none;}
+div#footerNav a {text-decoration: none;
+            padding-right: 5%;
+            float: right;
+            font-size: 120%;
+            color: #037dbe;
+            padding-top: 17px;}
+div#footerNav a:hover {color:#000;}
+div#copyright {width: 200px;
+                margin: 0px auto;
+                font-style: italic;
+                padding-top: 35px;}
