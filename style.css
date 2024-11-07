@@ -63,7 +63,7 @@ div#copyright {width: 200px;
                         color: #fff;
                         padding: 2%;
                         cursor: pointer;}
-#cartButtons #clearButton {background-color: #eee;
+#cartButtons #clearCartButton {background-color: #eee;
                         border: solid 1px #037dbe;
                         color: #037dbe;}
 .borderBottom {border-bottom: solid 1px #bbb;}
