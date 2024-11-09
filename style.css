@@ -103,6 +103,7 @@ div#copyright {width: 200px;
 .cartTitle {flex: 20%;
         font-weight: bold;
         padding-left: 10px;}
+.cartQuantity {flex: 10%;}
 .cartDescription {flex: 50%;
                 padding-left: 10px;}
 .cartQuantity input {margin-top: 17px;
