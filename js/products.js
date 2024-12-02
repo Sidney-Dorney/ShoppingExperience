@@ -1,5 +1,5 @@
 const imagePath = "images/images/shop/thumbnails/";
-products = [
+let products = [
     {id: 1,
     image: imagePath + "ClownUmbrella_Thumb.jpg",
     name: "Clown Umbrella",
