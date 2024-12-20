@@ -24,7 +24,7 @@ function saveToLocalStorage() {
             displayCart();
          }, false);
     }
-};
+}
 saveToLocalStorage();
 function displayCart() {
     clearStorageAndCart();
