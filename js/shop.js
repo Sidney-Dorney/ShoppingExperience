@@ -44,5 +44,10 @@ function displayCart() {
                                                                     <a class="tableCell borderBottom removeLink" href="#" id="${cartItem.id}">Remove</a>
                                                                 </div>`;
                                                             });
-};
+                                                            removeFromCart();
+}
 displayCart();
+let checkoutButton = document.getElementById("checkoutButton");
+checkoutButton.addEventListener("click", function() {
+    window.location = "cart.html";
+}, false); 
