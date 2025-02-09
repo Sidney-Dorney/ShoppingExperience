@@ -112,3 +112,5 @@ div#copyright {width: 200px;
         padding-left: 10px;}
 .removeMargins {margin: 0;}
 .textAlignRight {text-align: right;}
+#emptyCart {font-style: italic;
+        margin: 0;}
